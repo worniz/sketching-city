@@ -9,7 +9,7 @@ let by;
 // ------------------------------------------------------------
 
 function setup() { 
-    createCanvas(800, 600);
+    createCanvas(660, 495);
     //  size(1024, 768);
     //  size(screen.width, screen.height);
     smooth();
